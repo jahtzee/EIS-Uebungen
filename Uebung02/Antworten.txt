@@ -1,0 +1,23 @@
+2. Wichtigste Dateien
+
+WPF App Projekt:
+	App.config
+		Anwendungskonfigurationsdatei
+	App.xaml
+		Anwendungsausgangspunkt, zB zum Definieren von globalen Ressourcen
+	MainWindow.xaml
+		Oberflächenbeschreibung
+	MainWindow.xaml.cs
+		Oberflächenlogik
+
+3. Was bedeutet XAML
+
+EXtensible Application Markup Language
+
+4. Namespace
+
+Namensraum, innerhalb dessen jedes Element einen für diesen Raum einzigartigen Namen besitzt.
+
+5. Assembly
+
+Kompilierte Sammlung von Typen und Ressourcen (ausführbar oder als Bibliothek)

@@ -1,0 +1,16 @@
+Q:\hs\EIS\Uebung03\Uebung03\bin\Debug\Uebung03.exe.config
+Q:\hs\EIS\Uebung03\Uebung03\bin\Debug\Uebung03.exe
+Q:\hs\EIS\Uebung03\Uebung03\bin\Debug\Uebung03.pdb
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.csproj.AssemblyReference.cache
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.csproj.SuggestedBindingRedirects.cache
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\MainWindow.g.cs
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\App.g.cs
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03_MarkupCompile.cache
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03_MarkupCompile.lref
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\MainWindow.baml
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.g.resources
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.Properties.Resources.resources
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.csproj.GenerateResource.cache
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.csproj.CoreCompileInputs.cache
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.exe
+Q:\hs\EIS\Uebung03\Uebung03\obj\Debug\Uebung03.pdb
