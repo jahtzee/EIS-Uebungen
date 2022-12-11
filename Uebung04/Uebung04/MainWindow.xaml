@@ -9,6 +9,7 @@
     <Grid>
         <Button Name="MyButton">Button</Button>
         <TextBox Name="MyTextBox" MouseEnter="MouseEnterHandler" MouseLeave="MouseLeaveHandler">Alter Content</TextBox>
+            
         <TextBox>
         <TextBox.Style>
                 <Style TargetType="TextBox">
@@ -20,6 +21,26 @@
                                  </Style.Triggers>
                 </Style>
         </TextBox.Style>
+        </TextBox>
+            
+            <TextBox x:Name="myTextBox">
+                <TextBox.Style>
+                        <Style TargetType="TextBox">
+                                <Setter Property="Background" Value="White" />
+                                <Style.Triggers>
+                                        <Trigger Property="Text" Value="EIS">
+                                                <Setter Property="Background">
+                                                        <Setter.Value>
+                                                                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                                                <GradientStop Offset="0" Color="LightBlue" />
+                                                                <GradientStop Offset="1" Color="Blue" />
+                                                                </LinearGradientBrush>
+                                                        </Setter.Value>
+                                                </Setter>
+                                        </Trigger>
+                                </Style.Triggers>
+                        </Style>
+                </TextBox.Style>
         </TextBox>
     </Grid>
 </Window>
