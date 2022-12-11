@@ -42,5 +42,23 @@
                         </Style>
                 </TextBox.Style>
         </TextBox>
+            
+            <Button>
+                <Button.Style>
+                        <Style TargetType="Button">
+                                <Setter Property="Background" Value="White" />
+                                <Style.Triggers>
+                                        <MultiTrigger>
+                                                <MultiTrigger.Conditions>
+                                                        <Condition Property="IsMouseOver" Value="True" />
+                                                        <Condition Property="Keyboard.Modifiers" Value="Shift" />
+                                                </MultiTrigger.Conditions>
+                                                <Setter Property="Background" Value="Yellow" />
+                                        </MultiTrigger>
+                                </Style.Triggers>
+                        </Style>
+                </Button.Style>
+        </Button>
+            
     </Grid>
 </Window>
